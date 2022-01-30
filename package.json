@@ -1,0 +1,19 @@
+{
+  "name": "mailsender-api",
+  "version": "1.0.0",
+  "description": "nodemailer smtp api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "smtp"
+  ],
+  "author": "anishh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  }
+}
